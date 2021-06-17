@@ -1,6 +1,6 @@
 {
-  "name": "bulma",
-  "version": "0.9.2",
+  "name": "@stabelo/bulma-patch",
+  "version": "0.9.2-patch",
   "homepage": "https://bulma.io",
   "author": {
     "name": "Jeremy Thomas",
